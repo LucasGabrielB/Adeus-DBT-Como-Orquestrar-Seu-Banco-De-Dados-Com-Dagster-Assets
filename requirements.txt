@@ -1,0 +1,4 @@
+#python3.10
+dagster==1.1.19
+dagit==1.1.19
+dagster-postgres==0.17.19
